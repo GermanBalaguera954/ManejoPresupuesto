@@ -28,3 +28,4 @@ C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 
 C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.pdb
 C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.genruntimeconfig.cache
 C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ref\ManejoPresupuesto.dll
+C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.sourcelink.json

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
+    "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
+    "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "projectUniqueName": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
         "projectName": "ManejoPresupuesto",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
+        "projectPath": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
+        "outputPath": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,6 +43,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.24, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0-preview3.23201.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

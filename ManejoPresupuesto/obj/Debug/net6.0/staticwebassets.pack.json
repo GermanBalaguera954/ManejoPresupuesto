@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ManejoPresupuesto.bundle.scp.css"
     },
     {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -195,6 +199,82 @@
     {
       "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\AUTHORS.txt"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\index.html",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\index.html"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\package.json"
     },
     {
       "Id": "D:\\DOCUMENTOS\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",

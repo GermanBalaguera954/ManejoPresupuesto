@@ -134,3 +134,4 @@ D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proy
 D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css

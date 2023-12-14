@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/PROGRAMACION UDEMY/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/ManejoPresupuesto/ManejoPresupuesto/Views/Categorias/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xCb3JyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROGRAMACION UDEMY/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/ManejoPresupuesto/ManejoPresupuesto/Views/Categorias/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROGRAMACION UDEMY/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/ManejoPresupuesto/ManejoPresupuesto/Views/Categorias/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROGRAMACION UDEMY/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/ManejoPresupuesto/ManejoPresupuesto/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/PROGRAMACION UDEMY/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/ManejoPresupuesto/ManejoPresupuesto/Views/Cuentas/Borrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xCb3JyYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

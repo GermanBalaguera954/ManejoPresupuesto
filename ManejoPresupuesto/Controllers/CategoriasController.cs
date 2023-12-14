@@ -45,7 +45,7 @@ namespace ManejoPresupuesto.Controllers
         public async Task<IActionResult> Editar(int id)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-            var categoria = await repositorioCategorias.obtenerPorId(id, usuarioId);
+            var categoria = await repositorioCategorias.ObtenerPorId(id, usuarioId);
 
             if (categoria is null)
             {
@@ -63,7 +63,7 @@ namespace ManejoPresupuesto.Controllers
             }
 
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-            var categoria = await repositorioCategorias.obtenerPorId(categoriaEditar.Id, usuarioId);
+            var categoria = await repositorioCategorias.ObtenerPorId(categoriaEditar.Id, usuarioId);
 
             if (categoria is null)
             {
@@ -77,7 +77,7 @@ namespace ManejoPresupuesto.Controllers
         public async Task<IActionResult> Borrar(int id)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-            var categoria = await repositorioCategorias.obtenerPorId(id, usuarioId);
+            var categoria = await repositorioCategorias.ObtenerPorId(id, usuarioId);
 
             if (categoria is null)
             {
@@ -90,7 +90,7 @@ namespace ManejoPresupuesto.Controllers
         public async Task<IActionResult> BorrarCategoria(int id)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-            var categoria = await repositorioCategorias.obtenerPorId(id, usuarioId);
+            var categoria = await repositorioCategorias.ObtenerPorId(id, usuarioId);
 
             if (categoria is null)
             {

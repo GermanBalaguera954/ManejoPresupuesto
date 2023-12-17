@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0cCQPg9PT46gEtCpKP8ZbVulY7Jg4dxfzXBuWX7iAV8=",
+  "Hash": "05R5TxJ9oH9EaKVI7nIgiSPcbvzpl2iE7GmCpLheJ+Y=",
   "Source": "ManejoPresupuesto",
   "BasePath": "_content/ManejoPresupuesto",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\FormularioTransacciones.js",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "js/FormularioTransacciones.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FormularioTransacciones.js"
     },
     {
       "Identity": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\site.js",

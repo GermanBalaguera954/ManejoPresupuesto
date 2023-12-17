@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\FormularioTransacciones.js",
+      "PackagePath": "staticwebassets\\js\\FormularioTransacciones.js"
+    },
+    {
       "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

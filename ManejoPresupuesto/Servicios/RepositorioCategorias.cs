@@ -45,9 +45,10 @@ namespace ManejoPresupuesto.Servicios
         {
             using var connection = new SqlConnection(connectionString);
             return await connection.QueryAsync<Categoria>(
-                @"SELECT *
-                FROM Categorias
-                WHERE UsuarioId = @UsuarioId AND TipoOperacionId = @tipoOperacionId", new { usuarioId, tipoOperacionId });
+            @"SELECT * 
+            FROM Categorias 
+            WHERE UsuarioId = @usuarioId AND TipoOperacionId = @tipoOperacionId",
+            new { usuarioId, tipoOperacionId });
         }
 
         public async Task<Categoria> ObtenerPorId(int id, int usuarioId)

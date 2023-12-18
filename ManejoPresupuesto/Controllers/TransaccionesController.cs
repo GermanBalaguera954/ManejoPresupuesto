@@ -2,6 +2,7 @@
 using ClosedXML.Excel;
 using ManejoPresupuesto.Models;
 using ManejoPresupuesto.Servicios;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Data;
@@ -160,8 +161,8 @@ namespace ManejoPresupuesto.Controllers
             var fechaFin = fechaInicio.AddMonths(1).AddDays(-1);
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
 
-            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId
-                (new ParametroObtenerTransaccionesPorUsuario
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(
+                new ParametroObtenerTransaccionesPorUsuario
                 {
                     UsuarioId = usuarioId,
                     FechaInicio = fechaInicio,

@@ -1,140 +1,21 @@
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\appsettings.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.staticwebassets.runtime.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.exe
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.deps.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.runtimeconfig.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.pdb
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.AssemblyInfoInputs.cache
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.AssemblyInfo.cs
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.RazorAssemblyInfo.cache
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.RazorAssemblyInfo.cs
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.ManejoPresupuesto.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.build.ManejoPresupuesto.props
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManejoPresupuesto.props
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManejoPresupuesto.props
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\bundle\ManejoPresupuesto.styles.css
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\projectbundle\ManejoPresupuesto.bundle.scp.css
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\refint\ManejoPresupuesto.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.pdb
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.genruntimeconfig.cache
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ref\ManejoPresupuesto.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.sourcelink.json
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Azure.Core.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Azure.Identity.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Dapper.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Memory.Data.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.AssemblyReference.cache
-C:\Users\Usuario\Documents\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CopyComplete
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\appsettings.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\appsettings.Development.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.staticwebassets.runtime.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.exe
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.deps.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.runtimeconfig.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.pdb
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Azure.Core.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Azure.Identity.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Dapper.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.AssemblyReference.cache
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.GeneratedMSBuildEditorConfig.editorconfig
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.AssemblyInfoInputs.cache
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.AssemblyInfo.cs
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CoreCompileInputs.cache
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.MvcApplicationPartsAssemblyInfo.cache
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.RazorAssemblyInfo.cache
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.RazorAssemblyInfo.cs
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.sourcelink.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.build.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.development.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.ManejoPresupuesto.Microsoft.AspNetCore.StaticWebAssets.props
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.build.ManejoPresupuesto.props
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManejoPresupuesto.props
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManejoPresupuesto.props
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.pack.json
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\bundle\ManejoPresupuesto.styles.css
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\projectbundle\ManejoPresupuesto.bundle.scp.css
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CopyComplete
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\refint\ManejoPresupuesto.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.pdb
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.genruntimeconfig.cache
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ref\ManejoPresupuesto.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.Memory.Data.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\DOCUMENTOS\PROGRAMACION\CURSOS UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.AssemblyReference.cache
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.AssemblyInfoInputs.cache
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.AssemblyInfo.cs
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CoreCompileInputs.cache
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.RazorAssemblyInfo.cache
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.RazorAssemblyInfo.cs
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.ManejoPresupuesto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.build.ManejoPresupuesto.props
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManejoPresupuesto.props
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManejoPresupuesto.props
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.dll
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\refint\ManejoPresupuesto.dll
+C:\Users\germa\Downloads\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos-main\ASP.NET Core 6\Proyecto 2 - Manejo Presupuesto - Los Otros CRUDs\Fin\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.pdb
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\appsettings.Development.json
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\appsettings.json
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.staticwebassets.runtime.json
@@ -143,6 +24,8 @@ D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\M
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.runtimeconfig.json
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.dll
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.pdb
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Azure.Core.dll
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Azure.Identity.dll
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Dapper.dll
@@ -204,5 +87,10 @@ D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\M
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.pdb
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.genruntimeconfig.cache
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ref\ManejoPresupuesto.dll
-D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
-D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ClosedXML.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\Irony.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\XLParser.dll

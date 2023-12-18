@@ -1,20 +1,16 @@
 ﻿@model IEnumerable<Categoria>
 
 @{
-    ViewData["Title"] = "Categorias";
+    ViewData["Title"] = "Categorías";
 }
 
-<h1>Crear categoría</h1>
-
-<h5>
-    La categoria nos permite indicar en que gastamos nuestro dinero,
-    también, de donde provienen nuestros ingresos.
-</h5>
+<h1>Categorías</h1>
+<h5>La categoría nos permite indicar en qué gastamos nuestro dinero, 
+    también, de dónde provienen nuestros ingresos.</h5>
 
 <a asp-action="Crear" class="btn btn-primary mb-3">Crear nuevo</a>
 
 <table class="table">
-
     <thead>
         <tr>
             <th>Acciones</th>
@@ -30,16 +26,13 @@
                     <a class="btn btn-primary" asp-action="Editar" asp-route-id="@categoria.Id">Editar</a>
                     <a class="btn btn-danger" asp-action="Borrar" asp-route-id="@categoria.Id">Borrar</a>
                 </td>
-
                 <td>
                     @categoria.Nombre
                 </td>
-
                 <td>
                     @categoria.TipoOperacionId.ToString()
                 </td>
             </tr>
         }
     </tbody>
-
 </table>

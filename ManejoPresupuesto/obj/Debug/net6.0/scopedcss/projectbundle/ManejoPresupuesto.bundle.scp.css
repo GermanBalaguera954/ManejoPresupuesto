@@ -1,7 +1,7 @@
 /* _content/ManejoPresupuesto/Views/Cuentas/Index.cshtml.rz.scp.css */
 .acordeon-cuentas button[b-05jcn8n5mf] {
-    color: black;
-    font-size: 20px
+    color: black !important;
+    font-size: 20px;
 }
 
     .acordeon-cuentas button > span[b-05jcn8n5mf] {
@@ -15,7 +15,7 @@
     justify-content: space-between;
 }
 
-.acordeon-cuentas accordion-collapse[b-05jcn8n5mf] {
+.acordeon-cuentas .accordion-collapse[b-05jcn8n5mf] {
     font-size: 18px;
 }
 /* _content/ManejoPresupuesto/Views/Shared/_Layout.cshtml.rz.scp.css */

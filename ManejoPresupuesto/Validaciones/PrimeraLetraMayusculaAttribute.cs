@@ -2,7 +2,7 @@
 
 namespace ManejoPresupuesto.Validaciones
 {
-    public class PrimeraLetraMayusculaAttribute : ValidationAttribute
+    public class PrimeraLetraMayusculaAttribute: ValidationAttribute
     {
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {
@@ -15,7 +15,7 @@ namespace ManejoPresupuesto.Validaciones
 
             if (primeraLetra != primeraLetra.ToUpper())
             {
-                return new ValidationResult("La primera letra debe ser mayuscula");
+                return new ValidationResult("La primera letra debe ser mayúscula");
             }
 
             return ValidationResult.Success;

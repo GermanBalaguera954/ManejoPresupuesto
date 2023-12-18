@@ -11,10 +11,12 @@
     string ObtenerClaseBalance(decimal balance)
     {
         return balance >= 0 ? "activo" : "pasivo";
+
     }
 }
 
 <h1>Cuentas</h1>
+
 <a asp-action="Crear" class="btn btn-primary mb-3">Crear nuevo</a>
 
 <div class="contenedor-totales mb-3">
@@ -26,7 +28,6 @@
             @FormatearBalance(Model.Where(x => x.Balance > 0).Sum(x => x.Balance))
         </div>
     </div>
-
     <div>
         <div>
             <strong>Pasivos</strong>
@@ -35,7 +36,6 @@
             @FormatearBalance(Model.Where(x => x.Balance < 0).Sum(x => x.Balance))
         </div>
     </div>
-
     <div>
         <div>
             <strong>Total</strong>
@@ -50,13 +50,14 @@
     @foreach (var tipoCuenta in Model)
     {
         <div class="accordion-item">
-            <h2 accordion-header id="cabeceraUno">
+            <h2 class="accordion-header" id="cabeceraUno">
                 @{
                     var id = tipoCuenta.TipoCuenta.Replace(" ", "");
                     var dataBSTarget = "#" + id;
                     var claseTipoCuenta = ObtenerClaseBalance(tipoCuenta.Balance);
                 }
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="@dataBSTarget">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="@dataBSTarget">
                     <span class="me-3">
                         <span><strong>@tipoCuenta.TipoCuenta</strong></span>
                         <span class="@claseTipoCuenta">@FormatearBalance(tipoCuenta.Balance)</span>
@@ -71,13 +72,13 @@
                             var claseCuenta = ObtenerClaseBalance(cuenta.Balance);
                             <li class="list-group-item">
                                 <span>
-                                    <strong>@cuenta.Nombre</strong>
-                                    <a asp-action="Editar" asp-route-id="@cuenta.Id" class="btn-primary btn">
-                                        <i class="bi-pencil-fill"></i>
-                                    </a>
-                                    <a asp-action="Borrar" asp-route-id="@cuenta.Id" class="btn-danger btn">
-                                        <i class="bi-trash-fill"></i>
-                                    </a>
+                                    <strong><a asp-action="Detalle" asp-route-id="@cuenta.Id">@cuenta.Nombre</a></strong>
+                                <a asp-action="Editar" asp-route-id="@cuenta.Id" class="btn-primary btn">
+                                    <i class="bi-pencil-fill"></i>
+                                </a>   
+                                <a asp-action="Borrar" asp-route-id="@cuenta.Id" class="btn-danger btn">
+                                    <i class="bi-trash-fill"></i>
+                                </a>   
                                 </span>
                                 <span class="@claseCuenta">@FormatearBalance(cuenta.Balance)</span>
                             </li>
@@ -85,7 +86,6 @@
                     </ul>
                 </div>
             </div>
-
         </div>
     }
 </div>

@@ -28,16 +28,15 @@ namespace ManejoPresupuesto.Servicios
         public async Task Crear(Transaccion transaccion)
         {
             using var connection = new SqlConnection(connectionString);
-            var id = await connection.QuerySingleAsync<int>("TransaccionesInsertar",
-                new
-                {
-                    transaccion.UsuarioId,
-                    transaccion.FechaTransaccion,
-                    transaccion.Monto,
-                    transaccion.CategoriaId,
-                    transaccion.CuentaId,
-                    transaccion.Nota
-                },
+            var id = await connection.QuerySingleAsync<int>("TransaccionesInsertar", new
+            {
+                transaccion.UsuarioId,
+                transaccion.FechaTransaccion,
+                transaccion.Monto,
+                transaccion.CategoriaId,
+                transaccion.CuentaId,
+                transaccion.Nota
+            },
                 commandType: System.Data.CommandType.StoredProcedure);
 
             transaccion.Id = id;
@@ -78,18 +77,17 @@ namespace ManejoPresupuesto.Servicios
             int cuentaAnteriorId)
         {
             using var connection = new SqlConnection(connectionString);
-            await connection.ExecuteAsync("Transacciones_Actualizar",
-                new
-                {
-                    transaccion.Id,
-                    transaccion.FechaTransaccion,
-                    transaccion.Monto,
-                    transaccion.CategoriaId,
-                    transaccion.CuentaId,
-                    transaccion.Nota,
-                    montoAnterior,
-                    cuentaAnteriorId
-                }, commandType: System.Data.CommandType.StoredProcedure);
+            await connection.ExecuteAsync("Transacciones_Actualizar", new
+            {
+                transaccion.Id,
+                transaccion.FechaTransaccion,
+                transaccion.Monto,
+                transaccion.CategoriaId,
+                transaccion.CuentaId,
+                transaccion.Nota,
+                montoAnterior,
+                cuentaAnteriorId
+            }, commandType: System.Data.CommandType.StoredProcedure);
         }
 
         public async Task<Transaccion> ObtenerPorId(int id, int usuarioId)
@@ -115,8 +113,7 @@ namespace ManejoPresupuesto.Servicios
                 ON cat.Id = Transacciones.CategoriaId
                 WHERE Transacciones.UsuarioId = @usuarioId AND
                 FechaTransaccion BETWEEN @fechaInicio and @fechaFin
-                GROUP BY datediff(d, @fechaInicio, FechaTransaccion) / 7, cat.TipoOperacionId
-                ", modelo);
+                GROUP BY datediff(d, @fechaInicio, FechaTransaccion) / 7, cat.TipoOperacionId", modelo);
         }
 
         public async Task<IEnumerable<ResultadoObtenerPorMes>> ObtenerPorMes(int usuarioId, int año)

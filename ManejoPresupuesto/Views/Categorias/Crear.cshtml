@@ -5,8 +5,10 @@
 }
 
 <h1>Crear categoría</h1>
-<h5>La categoría nos permite indicar en qué gastamos nuestro dinero, 
-    también, de dónde provienen nuestros ingresos.</h5>
+<h5>
+    La categoría nos permite indicar en qué gastamos nuestro dinero,
+    también, de dónde provienen nuestros ingresos.
+</h5>
 
 <form asp-action="Crear">
     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -18,10 +20,10 @@
     </div>
 
     <div class="mb-3">
-          <label asp-for="TipoOperacionId" class="form-label"></label>
-          <select asp-for="TipoOperacionId" asp-items="Html.GetEnumSelectList<TipoOperacion>()"
-              class="form-select"></select>
-              <span asp-validation-for="TipoOperacionId" class="text-danger"></span>
+        <label asp-for="TipoOperacionId" class="form-label"></label>
+        <select asp-for="TipoOperacionId" asp-items="Html.GetEnumSelectList<TipoOperacion>()"
+                class="form-select"></select>
+        <span asp-validation-for="TipoOperacionId" class="text-danger"></span>
     </div>
 
     <button class="btn btn-primary">Enviar</button>
@@ -29,6 +31,6 @@
 
 </form>
 
-@section Scripts{
+@section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }

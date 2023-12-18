@@ -5,19 +5,21 @@
 }
 
 <h1>Tipos de Cuentas</h1>
-<h5>El tipo de cuenta se refiere a cómo podemos agrupar cuentas. 
-    Ejemplos: Préstamos, tarjetas de crédito, etc.</h5>
+<h5>
+    El tipo de cuenta se refiere a cómo podemos agrupar cuentas.
+    Ejemplos: Préstamos, tarjetas de crédito, etc.
+</h5>
 
-  <a asp-action="Crear" class="btn btn-primary mb-3">Crear nuevo</a>
+<a asp-action="Crear" class="btn btn-primary mb-3">Crear nuevo</a>
 
-  <table class="table">
-      <thead>
-          <tr>
-              <th>Acciones</th>
-              <th>Nombre</th>
-          </tr>
-      </thead>
-      <tbody id="reordenable">
+<table class="table">
+    <thead>
+        <tr>
+            <th>Acciones</th>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody id="reordenable">
         @foreach (var tipoCuenta in Model)
         {
             <tr>
@@ -33,44 +35,44 @@
             </tr>
         }
     </tbody>
-  </table>
+</table>
 
-  @section Scripts {
-      <script>
+@section Scripts {
+    <script>
 
-          const urlOrdenar = '@Url.Action("ordenar")';
+        const urlOrdenar = '@Url.Action("ordenar")';
 
-          $(function(){
-              $("#reordenable").sortable({
-                  stop: async function(e, ui){
-                      await actualizarOrdenes();
-                  }
-              });
+        $(function () {
+            $("#reordenable").sortable({
+                stop: async function (e, ui) {
+                    await actualizarOrdenes();
+                }
+            });
 
-              async function actualizarOrdenes(){
-                  const ids = obtenerIdsDeElementos();
-                  await enviarIdsAlBackend(ids);
-              }
+            async function actualizarOrdenes() {
+                const ids = obtenerIdsDeElementos();
+                await enviarIdsAlBackend(ids);
+            }
 
-              function obtenerIdsDeElementos(){
-                  const ids = $(".ids").map(function(){
-                      return $(this).val();
-                  }).get();
+            function obtenerIdsDeElementos() {
+                const ids = $(".ids").map(function () {
+                    return $(this).val();
+                }).get();
 
-                  return ids;
-              }
+                return ids;
+            }
 
-              async function enviarIdsAlBackend(ids){
-                  var data = JSON.stringify(ids);
+            async function enviarIdsAlBackend(ids) {
+                var data = JSON.stringify(ids);
 
-                  await fetch(urlOrdenar, {
-                      method: 'POST',
-                      body: data,
-                      headers: {
-                          'Content-Type': 'application/json'
-                      }
-                  });
-              }
-          })
-      </script>
-  }
+                await fetch(urlOrdenar, {
+                    method: 'POST',
+                    body: data,
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+            }
+        })
+    </script>
+}

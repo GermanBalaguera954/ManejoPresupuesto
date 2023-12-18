@@ -24,8 +24,7 @@ namespace ManejoPresupuesto.Servicios
             var usuarioId = await connection.QuerySingleAsync<int>(
                 @"INSERT INTO Usuarios (Email, EmailNormalizado, PasswordHash)
                 VALUES (@Email, @EmailNormalizado, @PasswordHash);
-                SELECT SCOPE_IDENTITY();
-                ", usuario);
+                SELECT SCOPE_IDENTITY();", usuario);
 
             await connection.ExecuteAsync("CrearDatosUsuarioNuevo", new { usuarioId },
                 commandType: System.Data.CommandType.StoredProcedure);
@@ -37,8 +36,8 @@ namespace ManejoPresupuesto.Servicios
         {
             using var connection = new SqlConnection(connectionString);
             var usuario = await connection.QuerySingleOrDefaultAsync<Usuario>(
-                "SELECT * FROM Usuarios Where EmailNormalizado = @emailNormalizado",
-                new { emailNormalizado });
+                @"SELECT *
+                FROM Usuarios Where EmailNormalizado = @emailNormalizado", new { emailNormalizado });
             return usuario;
         }
     }

@@ -82,14 +82,14 @@
                 }
 
                 return `<tr>
-                            <td>${transaccion.categoria}</td>
-                            <td>${transaccion.cuenta}</td>
-                            <td align="right" colspan="2"
-                             class=${transaccion.tipoOperacionId === tipoOperacionesIngresos ?
+                                    <td>${transaccion.categoria}</td>
+                                    <td>${transaccion.cuenta}</td>
+                                    <td align="right" colspan="2"
+                                     class=${transaccion.tipoOperacionId === tipoOperacionesIngresos ?
                         'activo' : 'pasivo'}>
-                                 ${formateador.format(transaccion.monto)}
-                                 </td>
-                        </tr>`;
+                                         ${formateador.format(transaccion.monto)}
+                                         </td>
+                                </tr>`;
             });
 
             $("#modalTablaCuerpo").html(filas);

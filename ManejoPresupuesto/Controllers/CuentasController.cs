@@ -16,8 +16,10 @@ namespace ManejoPresupuesto.Controllers
         private readonly IServicioReportes servicioReportes;
 
         public CuentasController(IRepositorioTiposCuentas repositorioTiposCuentas,
-            IServicioUsuarios servicioUsuarios, IRepositorioCuentas repositorioCuentas,
-            IMapper mapper, IRepositorioTransacciones repositorioTransacciones,
+            IServicioUsuarios servicioUsuarios,
+            IRepositorioCuentas repositorioCuentas,
+            IMapper mapper,
+            IRepositorioTransacciones repositorioTransacciones,
             IServicioReportes servicioReportes)
         {
             this.repositorioTiposCuentas = repositorioTiposCuentas;

@@ -2,7 +2,6 @@
 using ClosedXML.Excel;
 using ManejoPresupuesto.Models;
 using ManejoPresupuesto.Servicios;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Data;
@@ -22,7 +21,8 @@ namespace ManejoPresupuesto.Controllers
             IRepositorioCuentas repositorioCuentas,
             IRepositorioCategorias repositorioCategorias,
             IRepositorioTransacciones repositorioTransacciones,
-            IMapper mapper, IServicioReportes servicioReportes)
+            IMapper mapper,
+            IServicioReportes servicioReportes)
         {
             this.servicioUsuarios = servicioUsuarios;
             this.repositorioCuentas = repositorioCuentas;
@@ -35,27 +35,24 @@ namespace ManejoPresupuesto.Controllers
         public async Task<IActionResult> Index(int mes, int año)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-            var modelo = await servicioReportes
-                .ObtenerReporteTransaccionesDetalladas(usuarioId, mes, año, ViewBag);
+            var modelo = await servicioReportes.ObtenerReporteTransaccionesDetalladas(usuarioId, mes, año, ViewBag);
             return View(modelo);
         }
 
         public async Task<IActionResult> Semanal(int mes, int año)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-            IEnumerable<ResultadoObtenerPorSemana> transaccionesPorSemana =
-                await servicioReportes.ObtenerReporteSemanal(usuarioId, mes, año, ViewBag);
+            IEnumerable<ResultadoObtenerPorSemana> transaccionesPorSemana = await servicioReportes.ObtenerReporteSemanal(usuarioId, mes, año, ViewBag);
 
-            var agrupado = transaccionesPorSemana.GroupBy(x => x.Semana).Select(x =>
-                new ResultadoObtenerPorSemana()
-                {
-                    Semana = x.Key,
-                    Ingresos = x.Where(x => x.TipoOperacionId == TipoOperacion.Ingreso)
+            var agrupado = transaccionesPorSemana.GroupBy(x => x.Semana).Select(x => new ResultadoObtenerPorSemana()
+            {
+                Semana = x.Key,
+                Ingresos = x.Where(x => x.TipoOperacionId == TipoOperacion.Ingreso)
                         .Select(x => x.Monto).FirstOrDefault(),
-                    Gastos = x.Where(x => x.TipoOperacionId == TipoOperacion.Gasto)
+                Gastos = x.Where(x => x.TipoOperacionId == TipoOperacion.Gasto)
                         .Select(x => x.Monto).FirstOrDefault()
 
-                }).ToList();
+            }).ToList();
 
             if (año == 0 || mes == 0)
             {
@@ -66,7 +63,6 @@ namespace ManejoPresupuesto.Controllers
 
             var fechaReferencia = new DateTime(año, mes, 1);
             var diasDelMes = Enumerable.Range(1, fechaReferencia.AddMonths(1).AddDays(-1).Day);
-
             var diasSegmentados = diasDelMes.Chunk(7).ToList();
 
             for (int i = 0; i < diasSegmentados.Count(); i++)
@@ -93,7 +89,6 @@ namespace ManejoPresupuesto.Controllers
             }
 
             agrupado = agrupado.OrderByDescending(x => x.Semana).ToList();
-
             var modelo = new ReporteSemanalViewModel();
             modelo.TransaccionesPorSemana = agrupado;
             modelo.FechaReferencia = fechaReferencia;
@@ -111,16 +106,14 @@ namespace ManejoPresupuesto.Controllers
             }
 
             var transaccionesPorMes = await repositorioTransacciones.ObtenerPorMes(usuarioId, año);
-
-            var transaccionesAgrupadas = transaccionesPorMes.GroupBy(x => x.Mes)
-                .Select(x => new ResultadoObtenerPorMes()
-                {
-                    Mes = x.Key,
-                    Ingreso = x.Where(x => x.TipoOperacionId == TipoOperacion.Ingreso)
+            var transaccionesAgrupadas = transaccionesPorMes.GroupBy(x => x.Mes).Select(x => new ResultadoObtenerPorMes()
+            {
+                Mes = x.Key,
+                Ingreso = x.Where(x => x.TipoOperacionId == TipoOperacion.Ingreso)
                         .Select(x => x.Monto).FirstOrDefault(),
-                    Gasto = x.Where(x => x.TipoOperacionId == TipoOperacion.Gasto)
+                Gasto = x.Where(x => x.TipoOperacionId == TipoOperacion.Gasto)
                         .Select(x => x.Monto).FirstOrDefault()
-                }).ToList();
+            }).ToList();
 
             for (int mes = 1; mes <= 12; mes++)
             {
@@ -141,7 +134,6 @@ namespace ManejoPresupuesto.Controllers
             }
 
             transaccionesAgrupadas = transaccionesAgrupadas.OrderByDescending(x => x.Mes).ToList();
-
             var modelo = new ReporteMensualViewModel();
             modelo.Año = año;
             modelo.TransaccionesPorMes = transaccionesAgrupadas;
@@ -160,14 +152,12 @@ namespace ManejoPresupuesto.Controllers
             var fechaInicio = new DateTime(año, mes, 1);
             var fechaFin = fechaInicio.AddMonths(1).AddDays(-1);
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-
-            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(
-                new ParametroObtenerTransaccionesPorUsuario
-                {
-                    UsuarioId = usuarioId,
-                    FechaInicio = fechaInicio,
-                    FechaFin = fechaFin
-                });
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = fechaInicio,
+                FechaFin = fechaFin
+            });
 
             var nombreArchivo = $"Manejo Presupuesto - {fechaInicio.ToString("MMM yyyy")}.xlsx";
             return GenerarExcel(nombreArchivo, transacciones);
@@ -179,14 +169,12 @@ namespace ManejoPresupuesto.Controllers
             var fechaInicio = new DateTime(año, 1, 1);
             var fechaFin = fechaInicio.AddYears(1).AddDays(-1);
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-
-            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(
-                new ParametroObtenerTransaccionesPorUsuario
-                {
-                    UsuarioId = usuarioId,
-                    FechaInicio = fechaInicio,
-                    FechaFin = fechaFin
-                });
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = fechaInicio,
+                FechaFin = fechaFin
+            });
 
             var nombreArchivo = $"Manejo Presupuesto - {fechaInicio.ToString("yyyy")}.xlsx";
             return GenerarExcel(nombreArchivo, transacciones);
@@ -198,14 +186,12 @@ namespace ManejoPresupuesto.Controllers
             var fechaInicio = DateTime.Today.AddYears(-100);
             var fechaFin = DateTime.Today.AddYears(1000);
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-
-            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(
-               new ParametroObtenerTransaccionesPorUsuario
-               {
-                   UsuarioId = usuarioId,
-                   FechaInicio = fechaInicio,
-                   FechaFin = fechaFin
-               });
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = fechaInicio,
+                FechaFin = fechaFin
+            });
 
             var nombreArchivo = $"Manejo Presupuestos - {DateTime.Today.ToString("dd-MM-yyyy")}.xlsx";
             return GenerarExcel(nombreArchivo, transacciones);
@@ -257,14 +243,12 @@ namespace ManejoPresupuesto.Controllers
             DateTime end)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-
-            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(
-               new ParametroObtenerTransaccionesPorUsuario
-               {
-                   UsuarioId = usuarioId,
-                   FechaInicio = start,
-                   FechaFin = end
-               });
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = start,
+                FechaFin = end
+            });
 
             var eventosCalendario = transacciones.Select(transaccion => new EventoCalendario()
             {
@@ -280,14 +264,12 @@ namespace ManejoPresupuesto.Controllers
         public async Task<JsonResult> ObtenerTransaccionesPorFecha(DateTime fecha)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-
-            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(
-               new ParametroObtenerTransaccionesPorUsuario
-               {
-                   UsuarioId = usuarioId,
-                   FechaInicio = fecha,
-                   FechaFin = fecha
-               });
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = fecha,
+                FechaFin = fecha
+            });
 
             return Json(transacciones);
         }
@@ -416,7 +398,6 @@ namespace ManejoPresupuesto.Controllers
         public async Task<IActionResult> Borrar(int id, string urlRetorno = null)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-
             var transaccion = await repositorioTransacciones.ObtenerPorId(id, usuarioId);
 
             if (transaccion is null)
@@ -446,7 +427,11 @@ namespace ManejoPresupuesto.Controllers
             TipoOperacion tipoOperacion)
         {
             var categorias = await repositorioCategorias.Obtener(usuarioId, tipoOperacion);
-            return categorias.Select(x => new SelectListItem(x.Nombre, x.Id.ToString()));
+            var resultado = categorias.Select(x => new SelectListItem(x.Nombre, x.Id.ToString())).ToList();
+            var opcionPorDefecto = new SelectListItem("--Seleccione una categoria--", "0", true);
+
+            resultado.Insert(0, opcionPorDefecto);
+            return resultado;
         }
 
         [HttpPost]

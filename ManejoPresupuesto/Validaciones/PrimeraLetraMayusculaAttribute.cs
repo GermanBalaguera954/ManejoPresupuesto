@@ -2,7 +2,7 @@
 
 namespace ManejoPresupuesto.Validaciones
 {
-    public class PrimeraLetraMayusculaAttribute: ValidationAttribute
+    public class PrimeraLetraMayusculaAttribute : ValidationAttribute
     {
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {
